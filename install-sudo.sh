@@ -10,4 +10,4 @@ rm -rf Termux-sudo
 
 clear
 
-echo "Usage sudo su"
+echo -e "\e[1;91mTO USE JUST DO \e[1;91m sudo su \e[0m"
