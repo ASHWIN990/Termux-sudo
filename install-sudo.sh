@@ -1,10 +1,4 @@
-apt-get install git -y
-
-pkg install ncurses-utils
-
-
-
-
+pkg install ncurses-utils -y
 
 cat sudo > /data/data/com.termux/files/usr/bin/sudo
 
