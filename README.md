@@ -7,7 +7,10 @@
 AUTOMATIC INSTALLATON:
 
 ```sh
-bash <(curl -s https://raw.githubusercontent.com/ASHWIN990/Termux-sudo/master/auto-install.sh)
+
+apt-get install wget -y
+
+wget -O - https://raw.githubusercontent.com/ASHWIN990/Termux-sudo/master/auto-install.sh | bash
 
 ```
 
