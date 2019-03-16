@@ -20,6 +20,8 @@ sleep 3s
 
 clear
 
+cd ..
+
 mv Termux-sudo/ .Temux-sudo
 
 echo -e "\e[1;91mTO USE JUST DO \e[1;91m sudo su \e[0m"
